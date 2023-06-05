@@ -4,4 +4,5 @@
 
 Це сховище створено крок за кроком у підручнику.
 
-Its now includes steps fot GitHUb
+Its now includes steps fot GitHub
+ ANd one more changes
